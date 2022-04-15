@@ -1,6 +1,6 @@
 import java.sql.*;
 
-public class Test{
+public class TestingJDBC_Connection{
     public static void main (String[] args) {
         System.out.println();
 
