@@ -1,2 +1,2 @@
 # OOP-JDBC-Lab
-The requirement i.e. the question of lab is been given above. 
+The requirement i.e. the question of lab is been given above under the directory named "Requirement". 
